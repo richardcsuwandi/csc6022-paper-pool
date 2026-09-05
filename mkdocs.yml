@@ -1,0 +1,48 @@
+site_name: CSC6022 Paper Pool
+site_description: A categorized paper pool for CSC6022.
+repo_name: richardcsuwandi/csc6022-paper-pool
+repo_url: https://github.com/richardcsuwandi/csc6022-paper-pool
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - ML Classics / Optimization for ML: ml-classics-optimization.md
+  - Bayesian ML: bayesian-ml.md
+  - Unsupervised Learning / Generative Model: unsupervised-generative.md
+  - Sequential Data Modeling / State Space Model: sequential-ssm.md
+  - DL Classics: dl-classics.md
+  - Information Theory / Complexity and Generalization: info-theory-generalization.md
+  - Contributing: contributing.md
