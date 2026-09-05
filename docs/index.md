@@ -12,6 +12,7 @@ Use the navigation bar (or search) to browse by topic. Each paper links directly
 - **[Sequential Data Modeling / State Space Model](sequential-ssm.md)** — state space models, Kalman filtering, and sequence modeling architectures
 - **[DL Classics](dl-classics.md)** — landmark deep learning papers in computer vision, NLP, and training techniques
 - **[Information Theory / Complexity and Generalization](info-theory-generalization.md)** — generalization theory, complexity measures, and information-theoretic foundations
+- **[Modern Topics (LLMs / Agents / World Models)](modern-topics.md)** — large language models, agents, world models, and other modern topics
 
 Want to add a paper? See [Contributing](contributing.md).
 
