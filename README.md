@@ -4,7 +4,7 @@ Paper pool for CSC6022 Machine Learning course at [CUHK-Shenzhen](https://www.cu
 
 Website version: https://richardcsuwandi.github.io/csc6022-paper-pool/
 
-Please contact the TAs (Richard Cornelius Suwandi and Zihan Yan) if you have any questions or suggestions.
+Please contact the TAs if you have any questions or suggestions: Richard Cornelius Suwandi (richardsuwandi@link.cuhk.edu.cn) and Zihan Yan (zihanyan2@link.cuhk.edu.cn).
 
 ## Categories
 
@@ -14,6 +14,7 @@ Please contact the TAs (Richard Cornelius Suwandi and Zihan Yan) if you have any
 - Sequential Data Modeling / State Space Model
 - DL Classics
 - Information Theory / Complexity and Generalization
+- Modern Topics (LLMs / Agents / World Models)
 
 ## Local development
 

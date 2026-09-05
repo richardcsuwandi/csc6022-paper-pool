@@ -25,6 +25,7 @@ Category slugs:
 | Sequential Data Modeling / State Space Model | `sequential-ssm` |
 | DL Classics | `dl-classics` |
 | Information Theory / Complexity and Generalization | `info-theory-generalization` |
+| Modern Topics (LLMs / Agents / World Models) | `modern-topics` |
 
 ## Adding a new category
 
@@ -40,3 +41,7 @@ mkdocs serve
 ```
 
 Then open http://127.0.0.1:8000.
+
+---
+
+This is the paper pool for CSC6022 Machine Learning course at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en/home), taught by [Prof. Yin Feng](https://sai.cuhk.edu.cn/en/teacher/97/). Please contact the TAs ([Richard Cornelius Suwandi](mailto:richardsuwandi@link.cuhk.edu.cn) and [Zihan Yan](mailto:zihanyan2@link.cuhk.edu.cn)) if you have any questions or suggestions.

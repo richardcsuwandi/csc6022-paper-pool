@@ -14,3 +14,7 @@ Use the navigation bar (or search) to browse by topic. Each paper links directly
 - **[Information Theory / Complexity and Generalization](info-theory-generalization.md)** — generalization theory, complexity measures, and information-theoretic foundations
 
 Want to add a paper? See [Contributing](contributing.md).
+
+---
+
+This is the paper pool for CSC6022 Machine Learning course at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en/home), taught by [Prof. Yin Feng](https://sai.cuhk.edu.cn/en/teacher/97/). Please contact the TAs ([Richard Cornelius Suwandi](mailto:richardsuwandi@link.cuhk.edu.cn) and [Zihan Yan](mailto:zihanyan2@link.cuhk.edu.cn)) if you have any questions or suggestions.

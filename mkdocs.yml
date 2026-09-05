@@ -6,6 +6,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  logo: assets/cuhk-logo.png
+  favicon: assets/cuhk-logo.png
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -49,4 +51,5 @@ nav:
   - Sequential Data Modeling / State Space Model: sequential-ssm.md
   - DL Classics: dl-classics.md
   - Information Theory / Complexity and Generalization: info-theory-generalization.md
+  - Modern Topics (LLMs / Agents / World Models): modern-topics.md
   - Contributing: contributing.md
