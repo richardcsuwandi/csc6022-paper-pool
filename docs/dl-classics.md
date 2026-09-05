@@ -2,7 +2,7 @@
 
 Landmark deep learning papers in computer vision, NLP, and training techniques.
 
-**17 papers**
+**{{ paper_count('dl-classics') }} papers**
 
 - [Adam- A method for stochastic optimization](papers/dl-classics/Adam-%20A%20method%20for%20stochastic%20optimization.pdf)
 - [Attention is all you need](papers/dl-classics/Attention%20is%20all%20you%20need.pdf)

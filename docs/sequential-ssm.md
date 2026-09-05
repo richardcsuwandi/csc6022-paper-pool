@@ -2,7 +2,7 @@
 
 State space models, Kalman filtering, and sequence modeling architectures.
 
-**11 papers**
+**{{ paper_count('sequential-ssm') }} papers**
 
 - [Artificial intelligence-aided Kalman filters- AI-augmented designs for Kalman-type algorithms](papers/sequential-ssm/Artificial%20intelligence-aided%20Kalman%20filters-%20AI-augmented%20designs%20for%20Kalman-type%20algorithms.pdf)
 - [Augmented physics-based machine learning for navigation and tracking](papers/sequential-ssm/Augmented%20physics-based%20machine%20learning%20for%20navigation%20and%20tracking.pdf)

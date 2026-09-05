@@ -30,6 +30,10 @@ theme:
     - search.highlight
     - content.action.edit
 
+plugins:
+  - search
+  - macros
+
 markdown_extensions:
   - admonition
   - attr_list

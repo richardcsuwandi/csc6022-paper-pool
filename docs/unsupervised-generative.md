@@ -2,7 +2,7 @@
 
 Generative models, diffusion, clustering, and latent variable models.
 
-**20 papers**
+**{{ paper_count('unsupervised-generative') }} papers**
 
 - [Bayesian learning via stochastic gradient langevin dynamics](papers/unsupervised-generative/Bayesian%20learning%20via%20stochastic%20gradient%20langevin%20dynamics.pdf)
 - [Building High-level Features Using Large Scale Unsupervised Learning](papers/unsupervised-generative/Building%20High-level%20Features%20Using%20Large%20Scale%20Unsupervised%20Learning.pdf)

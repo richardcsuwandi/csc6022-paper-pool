@@ -2,7 +2,7 @@
 
 Generalization theory, complexity measures, and information-theoretic foundations.
 
-**10 papers**
+**{{ paper_count('info-theory-generalization') }} papers**
 
 - [A mathematical theory of communication](papers/info-theory-generalization/A%20mathematical%20theory%20of%20communication.pdf)
 - [Communication in the presence of noise](papers/info-theory-generalization/Communication%20in%20the%20presence%20of%20noise.pdf)

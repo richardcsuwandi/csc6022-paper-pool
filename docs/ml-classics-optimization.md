@@ -2,7 +2,7 @@
 
 Foundational optimization methods and classic ML algorithms.
 
-**19 papers**
+**{{ paper_count('ml-classics-optimization') }} papers**
 
 - [A Newton-CG augmented Lagrangian method for semidefinite programming](papers/ml-classics-optimization/A%20Newton-CG%20augmented%20Lagrangian%20method%20for%20semidefinite%20programming.pdf)
 - [A fast iterative shrinkage-thresholding algorithm for linear inverse problems](papers/ml-classics-optimization/A%20fast%20iterative%20shrinkage-thresholding%20algorithm%20for%20linear%20inverse%20problems.pdf)

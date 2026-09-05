@@ -12,6 +12,9 @@ TAs and instructors can add or update papers directly.
    (using the actual Markdown link syntax `[title](path)`)
 3. Commit and push directly to `main` (collaborators), or open a pull request.
 
+   The "N papers" count on each category page is computed automatically from
+   the PDFs in its `docs/papers/<slug>/` folder — no need to update it by hand.
+
 Category slugs:
 
 | Category | Folder / page slug |

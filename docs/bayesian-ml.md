@@ -2,7 +2,7 @@
 
 Bayesian optimization, sparse Bayesian learning, and probabilistic deep learning.
 
-**17 papers**
+**{{ paper_count('bayesian-ml') }} papers**
 
 - [Auto-Encoding Variational Bayes](papers/bayesian-ml/Auto-Encoding%20Variational%20Bayes.pdf)
 - [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](papers/bayesian-ml/Bayesian%20Deep%20Learning%20and%20a%20Probabilistic%20Perspective%20of%20Generalization.pdf)

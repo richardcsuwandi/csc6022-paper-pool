@@ -1,8 +1,10 @@
-# CSC6022 Paper Pool
+# CSC6022 Machine Learning Paper Pool
 
-A categorized collection of papers for CSC6022, published as a browsable/searchable site with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
+Paper pool for CSC6022 Machine Learning course at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en/home), taught by [Prof. Yin Feng](https://sai.cuhk.edu.cn/en/teacher/97/).
 
-Live site: https://richardcsuwandi.github.io/csc6022-paper-pool/
+Website version: https://richardcsuwandi.github.io/csc6022-paper-pool/
+
+Please contact the TAs (Richard Cornelius Suwandi and Zihan Yan) if you have any questions or suggestions.
 
 ## Categories
 
