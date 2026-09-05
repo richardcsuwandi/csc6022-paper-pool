@@ -8,13 +8,13 @@ Please contact the TAs if you have any questions or suggestions: Richard Corneli
 
 ## Categories
 
-- ML Classics / Optimization for ML
-- Bayesian ML
-- Unsupervised Learning / Generative Model
-- Sequential Data Modeling / State Space Model
-- DL Classics
-- Information Theory / Complexity and Generalization
-- Modern Topics (LLMs / Agents / World Models)
+- [ML Classics / Optimization for ML](docs/ml-classics-optimization.md) ([papers](docs/papers/ml-classics-optimization))
+- [Bayesian ML](docs/bayesian-ml.md) ([papers](docs/papers/bayesian-ml))
+- [Unsupervised Learning / Generative Model](docs/unsupervised-generative.md) ([papers](docs/papers/unsupervised-generative))
+- [Sequential Data Modeling / State Space Model](docs/sequential-ssm.md) ([papers](docs/papers/sequential-ssm))
+- [DL Classics](docs/dl-classics.md) ([papers](docs/papers/dl-classics))
+- [Information Theory / Complexity and Generalization](docs/info-theory-generalization.md) ([papers](docs/papers/info-theory-generalization))
+- [Modern Topics (LLMs / Agents / World Models)](docs/modern-topics.md) ([papers](docs/papers/modern-topics))
 
 ## Local development
 
