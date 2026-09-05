@@ -18,6 +18,8 @@ Foundational optimization methods and classic ML algorithms.
 - [Nonnegative matrix factorization_A comprehensive review](papers/ml-classics-optimization/Nonnegative%20matrix%20factorization_A%20comprehensive%20review.pdf)
 - [On the limited memory BFGS method for large scale optimization](papers/ml-classics-optimization/On%20the%20limited%20memory%20BFGS%20method%20for%20large%20scale%20optimization.pdf)
 - [Primal-dual subgradient methods for convex problems](papers/ml-classics-optimization/Primal-dual%20subgradient%20methods%20for%20convex%20problems.pdf)
+- [Random Features for Large-Scale Kernel Machines](papers/ml-classics-optimization/Random%20Features%20for%20Large-Scale%20Kernel%20Machines.pdf)
+- [Sharpness-Aware Minimization for Efficiently Improving Generalization](papers/ml-classics-optimization/Sharpness-Aware%20Minimization%20for%20Efficiently%20Improving%20Generalization.pdf)
 - [Support vector machines](papers/ml-classics-optimization/Support%20vector%20machines.pdf)
 - [Support-Vector Networks](papers/ml-classics-optimization/Support-Vector%20Networks.pdf)
 - [Visualizing Data using t-SNE](papers/ml-classics-optimization/Visualizing%20Data%20using%20t-SNE.pdf)

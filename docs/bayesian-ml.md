@@ -21,3 +21,4 @@ Bayesian optimization, sparse Bayesian learning, and probabilistic deep learning
 - [The horseshoe estimator for sparse signals](papers/bayesian-ml/The%20horseshoe%20estimator%20for%20sparse%20signals.pdf)
 - [The infinite Gaussian mixture model.](papers/bayesian-ml/The%20infinite%20Gaussian%20mixture%20model..pdf)
 - [Variational learning of inducing variables in sparse Gaussian processes](papers/bayesian-ml/Variational%20learning%20of%20inducing%20variables%20in%20sparse%20Gaussian%20processes.pdf)
+- [Weight Uncertainty in Neural Networks](papers/bayesian-ml/Weight%20Uncertainty%20in%20Neural%20Networks.pdf)
