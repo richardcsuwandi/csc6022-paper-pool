@@ -16,6 +16,7 @@ Landmark deep learning papers in computer vision, NLP, and training techniques.
 - [ImageNet Classification with Deep Convolutional Neural Networks](papers/dl-classics/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf)
 - [Improving Neural Networks by Preventing Co-Adaptation of Feature Detectors](papers/dl-classics/Improving%20Neural%20Networks%20by%20Preventing%20Co-Adaptation%20of%20Feature%20Detectors.pdf)
 - [Learning Representations by Back-Propagating Errors](papers/dl-classics/Learning%20Representations%20by%20Back-Propagating%20Errors.pdf)
+- [Long Short-Term Memory](papers/dl-classics/Long%20Short-Term%20Memory.pdf)
 - [Mask R-CNN](papers/dl-classics/Mask%20R-CNN.pdf)
 - [Sequence to Sequence Learning with Neural Networks](papers/dl-classics/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.pdf)
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](papers/dl-classics/Very%20Deep%20Convolutional%20Networks%20for%20Large-Scale%20Image%20Recognition.pdf)
