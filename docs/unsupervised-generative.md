@@ -15,7 +15,7 @@ Generative models, diffusion, clustering, and latent variable models.
 - [How to Train Your Energy-Based Models](papers/unsupervised-generative/How%20to%20Train%20Your%20Energy-Based%20Models.pdf)
 - [Infinite Latent Feature Models and the Indian Buffet Process](papers/unsupervised-generative/Infinite%20Latent%20Feature%20Models%20and%20the%20Indian%20Buffet%20Process.pdf)
 - [Invertible Residual Networks](papers/unsupervised-generative/Invertible%20Residual%20Networks.pdf)
-- [Latent Dirichlet Allocation (1)](papers/unsupervised-generative/Latent%20Dirichlet%20Allocation%20%281%29.pdf)
+- [Latent Dirichlet Allocation](papers/unsupervised-generative/Latent%20Dirichlet%20Allocation.pdf)
 - [Maximum Likelihood from Incomplete Data via the EM Algorithm](papers/unsupervised-generative/Maximum%20Likelihood%20from%20Incomplete%20Data%20via%20the%20EM%20Algorithm.pdf)
 - [Normalized Cuts and Image Segmentation](papers/unsupervised-generative/Normalized%20Cuts%20and%20Image%20Segmentation.pdf)
 - [On Spectral Clustering- Analysis and an Algorithm](papers/unsupervised-generative/On%20Spectral%20Clustering-%20Analysis%20and%20an%20Algorithm.pdf)
