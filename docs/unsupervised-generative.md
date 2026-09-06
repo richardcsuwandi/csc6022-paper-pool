@@ -20,6 +20,7 @@ Generative models, diffusion, clustering, and latent variable models.
 - [Normalized Cuts and Image Segmentation](papers/unsupervised-generative/Normalized%20Cuts%20and%20Image%20Segmentation.pdf)
 - [On Spectral Clustering- Analysis and an Algorithm](papers/unsupervised-generative/On%20Spectral%20Clustering-%20Analysis%20and%20an%20Algorithm.pdf)
 - [RePaint- Inpainting Using Denoising Diffusion Probabilistic Models](papers/unsupervised-generative/RePaint-%20Inpainting%20Using%20Denoising%20Diffusion%20Probabilistic%20Models.pdf)
+- [Scalable Diffusion Models with Transformers](papers/unsupervised-generative/Scalable%20Diffusion%20Models%20with%20Transformers.pdf)
 - [Score-Based Generative Modeling through Stochastic Differential Equations](papers/unsupervised-generative/Score-Based%20Generative%20Modeling%20through%20Stochastic%20Differential%20Equations.pdf)
 - [Supervised Learning from Incomplete Data via an EM Approach](papers/unsupervised-generative/Supervised%20Learning%20from%20Incomplete%20Data%20via%20an%20EM%20Approach.pdf)
 - [The Infinite Hidden Markov Model](papers/unsupervised-generative/The%20Infinite%20Hidden%20Markov%20Model.pdf)
