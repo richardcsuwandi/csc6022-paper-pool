@@ -1,6 +1,6 @@
 # CSC6022 Paper Pool
 
-A categorized collection of papers for CSC6022 Machine Learning course at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en/home), taught by [Prof. Yin Feng](https://sai.cuhk.edu.cn/en/teacher/97/).
+A categorized collection of papers for CSC6022 Machine Learning course at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en/home), taught by [Prof. Feng Yin](https://sai.cuhk.edu.cn/en/teacher/97/).
 
 Use the navigation bar (or search) to browse by topic. Each paper links directly to its PDF, which you can view in the browser or download.
 
