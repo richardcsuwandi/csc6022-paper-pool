@@ -44,4 +44,4 @@ Then open http://127.0.0.1:8000.
 
 ---
 
-This is the paper pool for CSC6022 Machine Learning course at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en/home), taught by [Prof. Yin Feng](https://sai.cuhk.edu.cn/en/teacher/97/). Please contact the TAs ([Richard Cornelius Suwandi](mailto:richardsuwandi@link.cuhk.edu.cn) and [Zihan Yan](mailto:zihanyan2@link.cuhk.edu.cn)) if you have any questions or suggestions.
+This is the paper pool for CSC6022 Machine Learning course at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en/home), taught by [Prof. Feng Yin](https://sai.cuhk.edu.cn/en/teacher/97/). Please contact the TAs ([Richard Cornelius Suwandi](mailto:richardsuwandi@link.cuhk.edu.cn) and [Zihan Yan](mailto:zihanyan2@link.cuhk.edu.cn)) if you have any questions or suggestions.
