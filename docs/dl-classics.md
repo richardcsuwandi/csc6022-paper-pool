@@ -8,6 +8,7 @@ Landmark deep learning papers in computer vision, NLP, and training techniques.
 - [Batch Normalization- Accelerating Deep Network Training by Reducing Internal Covariate Shift](papers/dl-classics/Batch%20Normalization-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf)
 - [Deep Learning](papers/dl-classics/Deep%20Learning.pdf)
 - [Deep Residual Learning for Image Recognition](papers/dl-classics/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
+- [Distilling the Knowledge in a Neural Network](papers/dl-classics/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pdf)
 - [Dropout-A Simple Way to Prevent Neural Networks from Overfitting](papers/dl-classics/Dropout-A%20Simple%20Way%20to%20Prevent%20Neural%20Networks%20from%20Overfitting.pdf)
 - [Efficient Estimation of Word Representations in Vector Space](papers/dl-classics/Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space.pdf)
 - [Faster R-CNN- Towards Real-Time Object Detection with Region Proposal Networks](papers/dl-classics/Faster%20R-CNN-%20Towards%20Real-Time%20Object%20Detection%20with%20Region%20Proposal%20Networks.pdf)
