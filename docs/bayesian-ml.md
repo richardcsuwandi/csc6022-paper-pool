@@ -18,7 +18,7 @@ Bayesian optimization, sparse Bayesian learning, and probabilistic deep learning
 - [Simple and Scalable Predictive Uncertainty Estimation Using Deep Ensembles](papers/bayesian-ml/Simple%20and%20Scalable%20Predictive%20Uncertainty%20Estimation%20Using%20Deep%20Ensembles.pdf)
 - [Sparse Bayesian Learning and the Relevance Vector Machine](papers/bayesian-ml/Sparse%20Bayesian%20Learning%20and%20the%20Relevance%20Vector%20Machine.pdf)
 - [Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel](papers/bayesian-ml/Sparsity-Aware%20Distributed%20Learning%20for%20Gaussian%20Processes%20with%20Linear%20Multiple%20Kernel.pdf)
-- [Spike and Slab Variable Selection- Frequentist and Bayesian Strategies](papers/bayesian-ml/Spike%20and%20Slab%20Variable%20Selection-%20Frequentist%20and%20Bayesian%20Strategies.pdf)
+- [Spike and Slab Variable Selection: Frequentist and Bayesian Strategies](papers/bayesian-ml/Spike%20and%20Slab%20Variable%20Selection-%20Frequentist%20and%20Bayesian%20Strategies.pdf)
 - [Structure Discovery in Nonparametric Regression through Compositional Kernel Search](papers/bayesian-ml/Structure%20Discovery%20in%20Nonparametric%20Regression%20through%20Compositional%20Kernel%20Search.pdf)
 - [The Horseshoe Estimator for Sparse Signals](papers/bayesian-ml/The%20Horseshoe%20Estimator%20for%20Sparse%20Signals.pdf)
 - [The Infinite Gaussian Mixture Model.](papers/bayesian-ml/The%20Infinite%20Gaussian%20Mixture%20Model..pdf)
