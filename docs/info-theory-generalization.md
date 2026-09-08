@@ -15,4 +15,4 @@ Generalization theory, complexity measures, and information-theoretic foundation
 - [Reconciling Modern Machine Learning Practice and the Bias-Variance Trade-Off](papers/info-theory-generalization/Reconciling%20Modern%20Machine%20Learning%20Practice%20and%20the%20Bias-Variance%20Trade-Off.pdf)
 - [Train Faster, Generalize Better: Stability of Stochastic Gradient Descent](papers/info-theory-generalization/Train%20Faster%2C%20Generalize%20Better-%20Stability%20of%20Stochastic%20Gradient%20Descent.pdf)
 - [Understanding Deep Learning Requires Rethinking Generalization](papers/info-theory-generalization/Understanding%20Deep%20Learning%20Requires%20Rethinking%20Generalization.pdf)
-- [Y. Stronger Generalization Bounds for Deep Nets via a Compression Approach](papers/info-theory-generalization/Y.%20Stronger%20Generalization%20Bounds%20for%20Deep%20Nets%20via%20a%20Compression%20Approach.pdf)
+- [Stronger Generalization Bounds for Deep Nets via a Compression Approach](papers/info-theory-generalization/Y.%20Stronger%20Generalization%20Bounds%20for%20Deep%20Nets%20via%20a%20Compression%20Approach.pdf)
